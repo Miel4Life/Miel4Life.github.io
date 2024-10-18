@@ -1,6 +1,6 @@
 onload = () => {
 var sound = new Howl({
-  src: ['EI-EI-EI.png'],
+  src: ['ei-ei-ei.mp3'],
   autoplay: true,
   loop: true,
   volume: 1,
